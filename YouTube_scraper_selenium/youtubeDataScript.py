@@ -14,7 +14,7 @@ video_counts_temp = []
 
 def get_video_urls(url):
     print('Process has been started...\n')
-    path = './chromedriver.exe' # selenium web driver path
+    path = 'data/chromedriver.exe' # selenium web driver path
     driver = webdriver.Chrome(executable_path=path)
     driver.get(url)
 
