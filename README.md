@@ -3,12 +3,12 @@
 This repository contains data extraction, text mining and manipulation techniques, different types of data scraping methods using available python libraries. We can frame new dataset as per our business need with few modifications in existing scripts/ codes. I have tried with possible output snippets and demonstrations.  
 
 <div align="center">
-  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/tree/main/YouTube_scraper_selenium/issues"><img src="https://img.shields.io/github/issues/kunalk3/workiing_with_text_data_scraping" alt="Issues Badge"></a>
-  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/tree/main/YouTube_scraper_selenium/graphs/contributors"><img src="https://img.shields.io/github/contributors/kunalk3/workiing_with_text_data_scraping?color=872EC4" alt="GitHub contributors"></a>
+  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/issues"><img src="https://img.shields.io/github/issues/kunalk3/workiing_with_text_data_scraping" alt="Issues Badge"></a>
+  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/graphs/contributors"><img src="https://img.shields.io/github/contributors/kunalk3/workiing_with_text_data_scraping?color=872EC4" alt="GitHub contributors"></a>
   <a href="https://www.python.org/downloads/release/python-390/"><img src="https://img.shields.io/static/v1?label=python&message=v3.9&color=faff00" alt="Python 3.9"</a>
   <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kunalk3/workiing_with_text_data_scraping?color=019CE0" alt="License Badge"/></a>
-  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/tree/main/YouTube_scraper_selenium"><img src="https://img.shields.io/badge/lang-eng-ff1100"></img></a>
-  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/tree/main/YouTube_scraper_selenium"><img src="https://img.shields.io/github/last-commit/kunalk3/workiing_with_text_data_scraping?color=309a02" alt="GitHub last commit">
+  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping"><img src="https://img.shields.io/badge/lang-eng-ff1100"></img></a>
+  <a href="https://github.com/kunalk3/workiing_with_text_data_scraping"><img src="https://img.shields.io/github/last-commit/kunalk3/workiing_with_text_data_scraping?color=309a02" alt="GitHub last commit">
 </div>
   
 <div align="center">   
