@@ -130,7 +130,9 @@ https://user-images.githubusercontent.com/41562231/138703511-2f6a2c8c-af46-493b-
     │   ├── LiveMarketData.csv          # Output live market data csv file
     │   ├── PreMarketData.csv           # Output pre market data csv file
     │   └── MarketHolidayData.csv       # Output market holiday data csv file
-    └── requirements.txt                # Project requirements library with versions
+    ├── requirements.txt                # Project requirements library with versions
+	└── README.md						# Project README file
+	
 ```
 
 ---  
