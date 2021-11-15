@@ -1,3 +1,7 @@
+<div align="right">
+<img src="https://user-images.githubusercontent.com/41562231/141720820-090897f9-f564-45e2-9265-15c1269db795.png" height="120" width="900">
+</div>
+
 # NSE market data scraper
 This project involves web scrapping technique, demonstrated how to collect the information about NSE market with live data. In this, we have provided user choice to get the market data as per indices, sectors, etc without selenium web driver.
 Currenly script collect NSE data as __Live Market Data, Pre Market Data__ and __Market Holiday Data__ with file saving option in csv format. 
@@ -153,3 +157,7 @@ __Let’s connect, share the ideas and feel free to ping me...__
   </p>
 </div> 
 
+
+<div align="left">
+<img src="https://user-images.githubusercontent.com/41562231/141720940-53eb9b25-777d-4057-9c2d-8e22d2677c7c.png" height="120" width="900">
+</div>
