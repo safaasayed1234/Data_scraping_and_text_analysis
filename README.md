@@ -1,6 +1,9 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/41562231/141694045-9a03592b-7208-4691-ab03-1d6e192c61f4.png" height="180" width="1000">
+</div>
 
-# working_with_text_data_scraping
-This repository contains data extraction, text mining and manipulation techniques, different types of data scraping methods using available python libraries. We can frame new dataset as per our business need with few modifications in existing scripts/ codes. I have tried with possible output snippets and demonstrations.  
+# Data scraping and text Analysis
+This repository contains data extraction, text mining and manipulation techniques, different types of data scraping methods using available python libraries. We can frame new dataset as per our business need with few modifications in existing scripts/ codes. I have tried with possible output snippets and demonstrations.
 
 <div align="center">
   <a href="https://github.com/kunalk3/workiing_with_text_data_scraping/issues"><img src="https://img.shields.io/github/issues/kunalk3/workiing_with_text_data_scraping" alt="Issues Badge"></a>
@@ -39,6 +42,7 @@ Sr. No. | Title | Source Code | Data
 2 | Stopwords removal [NLTK + Gensim + Spacy] | [Notebook](https://github.com/kunalk3/workiing_with_text_data_scraping/blob/main/NLP_custom_stopwords_using_Nltk_Gensim_Spacy.ipynb) | NA
 3 | Youtube scrapper | [Code](https://github.com/kunalk3/workiing_with_text_data_scraping/blob/main/YouTube_scraper_selenium/youtubeDataScript.py) | [Data](https://github.com/kunalk3/workiing_with_text_data_scraping/tree/main/YouTube_scraper_selenium)
 4 | NA | [-](#) | [-](#)
+5 | NA | [-](#) | [-](#)
 
 ---
   
@@ -56,4 +60,8 @@ __Let’s connect, share the ideas and feel free to ping me...__
     <a href="https://instagram.com/kkunalkkolhe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kkunalkkolhe" height="30" width="40"/></a>
     <a href="https://www.hackerrank.com/kunalkolhe333" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="kunalkolhe333" height="30" width="40"/></a>
   </p>
+</div>
+  
+<div align="center">
+<img src="https://user-images.githubusercontent.com/41562231/141720446-fd994148-57a1-4d37-a97b-32e451dc7344.png" height="180" width="1000">
 </div>
