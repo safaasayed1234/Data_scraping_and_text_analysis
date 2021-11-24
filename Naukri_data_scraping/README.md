@@ -6,12 +6,12 @@
 Naukri Web Scraping is the project based on scraping jobs post related to any domains and their details. It also analyse scraped data.
 
 <div align="center">
-  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/NSE_data_scraper/issues"><img src="https://img.shields.io/github/issues/kunalk3/Data_scraping_and_text_analysis" alt="Issues Badge"></a>
-  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/NSE_data_scraper/graphs/contributors"><img src="https://img.shields.io/github/contributors/kunalk3/Data_scraping_and_text_analysis?color=872EC4" alt="GitHub contributors"></a>
+  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping/issues"><img src="https://img.shields.io/github/issues/kunalk3/Data_scraping_and_text_analysis" alt="Issues Badge"></a>
+  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping/graphs/contributors"><img src="https://img.shields.io/github/contributors/kunalk3/Data_scraping_and_text_analysis?color=872EC4" alt="GitHub contributors"></a>
   <a href="https://www.python.org/downloads/release/python-390/"><img src="https://img.shields.io/static/v1?label=python&message=v3.9&color=faff00" alt="Python 3.9"</a>
   <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/blob/main/LICENSE"><img src="https://img.shields.io/github/license/kunalk3/Data_scraping_and_text_analysis?color=019CE0" alt="License Badge"/></a>
-  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/NSE_data_scraper"><img src="https://img.shields.io/badge/lang-eng-ff1100"></img></a>
-  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/NSE_data_scraper"><img src="https://img.shields.io/github/last-commit/kunalk3/Data_scraping_and_text_analysis?color=309a02" alt="GitHub last commit">
+  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping"><img src="https://img.shields.io/badge/lang-eng-ff1100"></img></a>
+  <a href="https://github.com/kunalk3/Data_scraping_and_text_analysis/tree/main/Naukri_data_scraping"><img src="https://img.shields.io/github/last-commit/kunalk3/Data_scraping_and_text_analysis?color=309a02" alt="GitHub last commit">
 </div>
 
 <div align="center">   
